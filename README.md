@@ -1,10 +1,13 @@
 # SaveGas - Find the Best Gas Prices Near You 🚗⛽
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-success.svg)](https://save-gas.vercel.app)
 [![Built with Convex](https://img.shields.io/badge/Built%20with-Convex-blue.svg)](https://convex.dev)
 [![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB.svg)](https://reactjs.org)
 [![Built with Tailwind CSS](https://img.shields.io/badge/Built%20with-Tailwind%20CSS-38B2AC.svg)](https://tailwindcss.com)
 
 SaveGas is a modern web application that helps users find the most affordable gas prices in their area. With real-time price updates, interactive maps, and turn-by-turn directions, SaveGas makes it easy to save money on fuel.
+
+🌐 **[Try it now: save-gas.vercel.app](https://save-gas.vercel.app)**
 
 ![SaveGas Screenshot](./src/assets/logo.svg)
 
